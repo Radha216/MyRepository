@@ -1,2 +1,3 @@
-# MyRepository
-This is my first automation framework using java,selenium and appium
+### Sample Appium Project
+
+A basic structure to begin from.
